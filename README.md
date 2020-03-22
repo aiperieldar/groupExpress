@@ -17,4 +17,4 @@ It's a simple Todo List where user can add task and delete it after completing i
 ## Usage
 
 1. run `node server.js`
-2. Navigate to `localhost:8080`
+2. Navigate to `localhost:3000`
